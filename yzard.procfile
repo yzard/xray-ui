@@ -1,0 +1,2 @@
+caddy: caddy start --config /etc/caddy/Caddyfile --watch
+x-ui: x-ui
